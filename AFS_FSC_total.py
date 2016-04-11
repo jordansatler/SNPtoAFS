@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-#THIS SCRIPT NEEDS TO BE DOCUMENTED AND TESTED, HEAVILY!!!
-
 """
 This script will build an allele frequency spectrum from an input 
 matrix of SNPs. For use in a two population model. SNP matrix is 
@@ -15,7 +13,7 @@ frequency spectrum for use in fastsimcoal2.
 For use with both pyRAD and AftrRAD output.
                                                      
 python AFS_FSC_modular_Replicate_linkage.py SNP_infile.txt traits.txt 
-       Monomorphics Threshold Replicate Linked/Unlinked
+       Monomorphics.txt/species.loci Threshold Replicate Linked/Unlinked
 
 Author: Jordan Satler
 Date: 25 Jan 2016
