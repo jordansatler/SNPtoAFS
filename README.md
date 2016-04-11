@@ -27,7 +27,7 @@ the AFS to built with linked SNPs or to subsample a single SNP at random.
 AFS\_FSC\_total.py script. 
 ___
 
-The traits file gives individuals linked to populations.
+The traits file is tab-delimited and gives individuals linked to populations.
 
 Ex:  
 Individuals	Populations  
