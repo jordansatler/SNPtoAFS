@@ -29,16 +29,16 @@ ___
 
 The traits file gives individuals linked to populations.
 
-Ex:
-Individuals	Populations
-BL1a	west
-BL1b	west
-BL2a	west
-BL2b	west
-AS6a	east
-AS6b	east
+Ex:\s\s
+Individuals	Populations\s\s
+BL1a	west\s\s
+BL1b	west\s\s
+BL2a	west\s\s
+BL2b	west\s\s
+AS6a	east\s\s
+AS6b	east\s\s
 
-
+***
 References:
 
 
